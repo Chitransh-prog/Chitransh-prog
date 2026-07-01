@@ -53,33 +53,9 @@ Building intuitive digital experiences with clean design and scalable code.
 
 ---
 
-## 🌟 Featured Projects
-
-### 🎥 ytFuse
-AI-powered YouTube utility platform featuring:
-- Video Summarization
-- Thumbnail Tools
-- Audio Extraction
-- Content Productivity Utilities
-
-### 🤖 Nova AI Assistant
-Personal AI Assistant built with:
-- Python
-- Gemini API
-- Voice Features
-- Productivity Utilities
-
-### 😂 Meme Generator
-Flask-based meme generation application using external APIs.
-
-### 📝 TechGenie.blog
-Technology-focused blogging platform covering development, AI, and productivity.
-
----
-
 ## 🎯 2026 Goals
 
-- Land a Product Design / Frontend role
+- Land a Product Design / Full Stack role
 - Contribute to Open Source
 - Build impactful AI-powered products
 - Grow as a UI/UX Designer
