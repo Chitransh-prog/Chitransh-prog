@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Chitransh Prasad</h1>
 
 <h3 align="center">
-UI/UX Designer • Frontend Developer • Product Builder
+Designer(UI/UX & Graphics) • Full Stack Developer
 </h3>
 
 <p align="center">
